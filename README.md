@@ -1,3 +1,5 @@
+<p align="center"><img src="project-banner.svg" alt="Computer Vision Playground banner" width="100%" /></p>
+
 # Computer Vision Playground
 
 A practical collection of computer vision experiments with Python and OpenCV, designed for learning image processing, feature extraction, and evaluation.
